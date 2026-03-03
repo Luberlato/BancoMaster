@@ -1,0 +1,6 @@
+@BancoMaster_HostAddress = http://localhost:5210
+
+GET {{BancoMaster_HostAddress}}/Swagger/
+Accept: application/json
+
+###
